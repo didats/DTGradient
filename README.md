@@ -1,6 +1,9 @@
 # DTGradient
 Gradient view with configurable colors directly from your storyboard. This UIView custom class needs 2 color variables and thats it.
 
+### Screenshot
+![screenshot](https://github.com/didats/DTGradient/blob/master/screenshot.png?raw=true)
+
 ### How to use
 Set the UIView custom class to DTGradient on your storyboard, and set the fromColor to toColor. That is it.
 
